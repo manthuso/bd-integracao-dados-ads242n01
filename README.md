@@ -9,8 +9,8 @@
 **Nome da dupla:** ____________________ (deixe em branco se for individual)
 
 | Nome | Matrícula | Usuário do GitHub |
+| --- | --- | --- |
 | Matheus Nogueira | 2416560 | manthuso |
-|  |  |  |
 |  |  |  |
 
 ## O cenário
